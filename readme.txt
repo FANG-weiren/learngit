@@ -1,3 +1,3 @@
-Git is a version control system.
+nihao
 Git is free software.
 Hello, world!
