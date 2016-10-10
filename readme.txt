@@ -1,3 +1,3 @@
 nihao,zhaoxiufeng
 Git is free software.
-Hello, world!
+Git has a mutable index called stage.
